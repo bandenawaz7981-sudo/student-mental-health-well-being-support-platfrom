@@ -1,0 +1,9 @@
+{
+  "name": "student mental health & well being support platform",
+  "description": "A comprehensive student mental health platform featuring a 24/7 AI listener, mood tracking, self-care planning, and intelligent professional resource discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
